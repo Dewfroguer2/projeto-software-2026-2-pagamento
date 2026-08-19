@@ -13,7 +13,6 @@ on: # Olha as ações que ocorreram
     branches: [ "main" ]
   # pull_request:
   #   branches: [ "main" ]
-
 jobs:
   build:
 
